@@ -10,7 +10,7 @@ last_name: Capa Salinas
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor in Civil Engineering
 
 # Organizations/Affiliations
 organizations:
